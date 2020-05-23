@@ -1,7 +1,7 @@
 # R2D3(Deep Reinforcement Learning) for Keras-RL
 以下Qiita記事の実装コードとなります。
 
-+ []()
++ [【強化学習】R2D3を実装/解説してみた（Keras-RL）](https://qiita.com/pocokhc/items/2e000df3fddddd3d0854)
 
 また、下記記事も参考にしてください。
 

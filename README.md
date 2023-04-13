@@ -1,3 +1,7 @@
+**NOTE**  
+Check out the code for [Simple Distributed Reinforcement Learning](https://github.com/pocokhc/simple_distributed_rl).  
+I am creating a reinforcement learning framework. 
+
 # R2D3(Deep Reinforcement Learning) for Keras-RL
 以下Qiita記事の実装コードとなります。
 
